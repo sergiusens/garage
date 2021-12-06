@@ -11,6 +11,9 @@ price = 35000
 Bicicleta plegable con 7 cambios.
 
 <!--more-->
+
+Página original del producto https://www.ternbicycles.com/en/bikes/471/link-c7
+
 Detalles:
 
 - Necesita un cambio de cubierta
