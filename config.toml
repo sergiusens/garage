@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 languageCode = 'es-AR'
 title = 'Vendemos cosas'
 theme = "hugo-creative-portfolio-theme"
