@@ -5,11 +5,8 @@ theme = "hugo-creative-portfolio-theme"
 
 [params]
   style = "sea"
-  description = "Vendemos cosas porque nos vamos del país"
+  description = "Se terminó el acopio"
   copyright = "&copy;2021 Sergio Schvezov"
-  sidebarAbout = [
-    "Nos tocó el momento de irnos y estamos viendo de dejar cosas atrás"
-  ]
   email = "sergiusens@gmail.com"
 
   [[params.navlinks]]
