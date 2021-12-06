@@ -1,0 +1,13 @@
++++
+showonlyimage = false
+draft = false
+date = "2016-11-05T18:25:22+05:30"
+title = "Monitor Samsung Syncmaster BX2250"
+weight = 0
+tags = ["electronica"]
+price = 15000
++++
+
+<!--more-->
+
+{{<photos>}}
