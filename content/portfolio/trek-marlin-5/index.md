@@ -6,14 +6,14 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Trek Marlin 5 2020 Talle ML"
 weight = 0
 tags = ["ciclismo", "deporte"]
-price = 80000
+price = "vendido"
 +++
 
 <!--more-->
 
 Detalles:
 
-- Cuebierta de atrás es una Continental Raceking.
+- Cubierta de atrás es una Continental Raceking.
 - Tiene el manual
 - Raspones por uso
 

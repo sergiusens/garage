@@ -5,7 +5,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "TV Philips 49 Smart"
 weight = 0
 tags = ["electronica"]
-price = 20000
+price = "vendido"
 +++
 
 Televisor LED 4K UHD plano con tecnología Android.

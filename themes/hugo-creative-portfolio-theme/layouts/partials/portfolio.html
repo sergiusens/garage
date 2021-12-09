@@ -11,15 +11,24 @@
                         <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
                         {{ end }}
                         <!-- <img src="{{.Params.image | absURL}}" alt="" class="img-responsive"> -->
-			<img src='{{path.Join .RelPermalink "img" "front.jpg"}}' alt="" class="img-responsive">
+			<div class="img-container">
+                          <div class="img-base"><img src='{{path.Join .RelPermalink "img" "front.jpg"}}' alt="" class="img-responsive"></div>
+			  {{ if eq .Params.price "vendido" }}
+			  <div class="img-sold"><img src='/img/soldout.png' alt="" class="img-responsive"></div>
+			  {{ end }}
+			</div>  
                         </a>
                       {{ if eq .Params.showonlyimage true }}
                       <div class="box-masonry-hover-text-header">
                       {{ else }}
                       <div class="box-masonry-text">
                       {{ end }}
-                          <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-                          Precio AR$ {{ .Params.price }}
+                      <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+		      {{ if eq .Params.price "vendido" }}
+		      <b style='color:red;'>VENDIDO</b>
+		      {{ else }}
+                      Precio AR$ {{ .Params.price }}
+		      {{ end }}
                           <div class="box-masonry-description">
                             <p>
                                 {{ if .Description }}

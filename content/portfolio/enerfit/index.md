@@ -5,7 +5,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Enerfit 120 Plus"
 weight = 0
 tags = ["electronica"]
-price = 50000
+price = "vendido"
 +++
 
 <!--more-->
