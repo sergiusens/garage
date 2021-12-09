@@ -1,1 +1,15 @@
 /* your styles go here */
+
+.img-container {
+  position: relative;
+  width: 100%
+}
+.img-base {
+  width: 100%;
+}
+.img-sold {
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  width: 80%;
+}
