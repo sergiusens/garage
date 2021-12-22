@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 date = "2016-11-05T18:25:22+05:30"
 title = "Banghó BES 3 Executive i5"
-weight = 0
+weight = 1
 tags = ["electronica"]
 price = 50000
 +++

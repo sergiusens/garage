@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 date = "2016-11-05T18:25:22+05:30"
 title = "Xplova x5 Evo"
-weight = 0
+weight = 1
 tags = ["ciclismo", "electronica"]
 price = 20000
 +++

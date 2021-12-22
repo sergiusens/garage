@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 date = "2016-11-05T18:25:22+05:30"
 title = "Monitor Lenovo P27h-20 27 2560x1440 Hdmi Dp Usb-c"
-weight = 0
+weight = 1
 tags = ["electronica"]
 price = 75000
 +++

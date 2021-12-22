@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 date = "2016-11-05T18:25:22+05:30"
 title = "Moto X Play 32 Gb Negro 2Gb de RAM"
-weight = 0
+weight = 1
 tags = ["electronica"]
 price = 10000
 +++

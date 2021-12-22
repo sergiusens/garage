@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 date = "2016-11-05T18:25:22+05:30"
 title = "Saeco Espresso HD8325"
-weight = 0
+weight = 1
 tags = ["electronica"]
 price = 35000
 +++
